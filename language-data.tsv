@@ -1,0 +1,105 @@
+language	wiki article count 2018	family	script	UD token count	UD link	UD comment
+Afrikaans	68000	IE, Germanic	Latin	49000	https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms/tree/master	
+Albanian	83000	IE, Albanian	Latin	900	https://github.com/UniversalDependencies/UD_Albanian-TSA/tree/master	test only
+Arabic	653000	Afro-Asiatic, Semitic	Arabic	282000	https://github.com/UniversalDependencies/UD_Arabic-PADT/tree/master	
+Aragonese	34000	IE, Romance	Latin	NaN	NaN	
+Armenian	250000	IE, Armenian	Armenian	52000	https://github.com/UniversalDependencies/UD_Armenian-ArmTDP/tree/master	
+Asturian	100000			NaN	NaN	
+Azerbaijani	142000	Turkic, 	Latin	NaN	NaN	
+Bashkir				NaN	NaN	
+Basque	310000	Basque	Latin	121000	https://github.com/UniversalDependencies/UD_Basque-BDT/tree/master	
+Bavarian				NaN	NaN	
+Belarusian	160000	IE, Slavic	Cyrillic	305000	https://github.com/UniversalDependencies/UD_Belarusian-HSE/tree/master	
+Bengali	64000	IE, Indic	Bengali	320	https://github.com/UniversalDependencies/UD_Bengali-BRU/tree/master	test only
+Bishnupriya Manipuri				NaN	NaN	
+Bosnian				NaN	NaN	
+Breton	66000	IE, Celtic	Latin	10000	https://github.com/UniversalDependencies/UD_Breton-KEB/tree/master	test only
+Bulgarian	248000	IE, Slavic	Cyrillic	156000	https://github.com/UniversalDependencies/UD_Bulgarian-BTB/tree/master	
+Burmese				NaN	NaN	
+Catalan	599000	IE, Romance	Latin	553000	https://github.com/UniversalDependencies/UD_Catalan-AnCora/tree/master	
+Cebuano	5400000	 Austronesian, Central Philippine	Latin	1000	https://github.com/UniversalDependencies/UD_Cebuano-GJA/tree/master	test only
+Chechen				NaN	NaN	
+Chinese (Simplified)	1000000	 Sino-Tibetan	Chinese (simplified)	123000	https://github.com/UniversalDependencies/UD_Chinese-GSDSimp/tree/master	
+Chinese (Traditional)	87000	Sino-Tibetan	Chinese (traditional)	123000	https://github.com/UniversalDependencies/UD_Chinese-GSD/tree/master	
+Chuvash				NaN	NaN	
+Croatian	201000	IE, Slavic	Latin	199000	https://github.com/UniversalDependencies/UD_Croatian-SET/tree/master	
+Czech	419000	IE, Slavic	Latin	1530000	https://github.com/UniversalDependencies/UD_Czech-PDT/tree/master	
+Danish	242000	IE, Germanic	Latin	100000	https://github.com/UniversalDependencies/UD_Danish-DDT/tree/master	
+Dutch	2000000	IE, Germanic	Latin	208000	https://github.com/UniversalDependencies/UD_Dutch-Alpino/tree/master	
+English	5800000	IE, Germanic	Latin	254000	https://github.com/UniversalDependencies/UD_English-EWT/tree/master	
+Estonian	185000	Uralic, Finnic	Latin	438000	https://github.com/UniversalDependencies/UD_Estonian-EDT/tree/master	
+Finnish	449000	 Uralic, Finnic	Latin	202000	https://github.com/UniversalDependencies/UD_Finnish-TDT/tree/master	
+French	2100000	IE, Romance	Latin	400000	https://github.com/UniversalDependencies/UD_French-GSD/tree/master	
+Galician	154000	IE, Romance	Latin	138000	https://github.com/UniversalDependencies/UD_Galician-CTG/tree/master	
+Georgian	126000	 Kartvelian	Georgian	2000	https://github.com/UniversalDependencies/UD_Georgian-GLC/tree/master	test only
+German	2300000	IE, Germanic	Latin	3455000	https://github.com/UniversalDependencies/UD_German-HDT/tree/master	
+Greek	157000	IE, Greek	Greek	63000	https://github.com/UniversalDependencies/UD_Greek-GDT/tree/master	
+Gujarati				NaN	NaN	
+Haitian	55000	French Creole	Latin	3000	https://github.com/UniversalDependencies/UD_Haitian_Creole-Autogramm/tree/master	test only
+Hebrew	236000	Afro-Asiatic, Semitic	Hebrew	160000	https://github.com/UniversalDependencies/UD_Hebrew-HTB/tree/master	
+Hindi	132000	IE, Indic	Devanagari	351000	https://github.com/UniversalDependencies/UD_Hindi-HDTB/tree/master	
+Hungarian	442000	Uralic, Ugric	Latin	42000	https://github.com/UniversalDependencies/UD_Hungarian-Szeged/tree/master	
+Icelandic	46000	 IE, Germanic	Latin	985000	https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC/tree/master	
+Ido				NaN	NaN	
+Indonesian	451000	Austronesian, Malayo-Sumbawan	Latin	122000	https://github.com/UniversalDependencies/UD_Indonesian-GSD/tree/master	
+Irish	50000	IE, Celtic	Latin	115000	https://github.com/UniversalDependencies/UD_Irish-IDT/tree/master	
+Italian	1500000	IE, Romance	Latin	298000	https://github.com/UniversalDependencies/UD_Italian-ISDT/tree/master	
+Japanese	1100000	Japanese	Japanese	1253000	https://github.com/UniversalDependencies/UD_Japanese-BCCWJ/tree/master	
+Javanese	55000	Austronesian, Javanese	Latin	14000	https://github.com/UniversalDependencies/UD_Javanese-CSUI/tree/master	test only
+Kannada				NaN	NaN	
+Kazakh	228000	 Turkic, Northwestern	Cyrillic	10000	https://github.com/UniversalDependencies/UD_Kazakh-KTB/tree/master	
+Kirghiz	80000	Turkic, Northwestern	Cyrillic	7000	https://github.com/UniversalDependencies/UD_Kyrgyz-KTMU/tree/master	
+Korean	439000	Korean	Korean	350000	https://github.com/UniversalDependencies/UD_Korean-Kaist/tree/master	
+Latin	130000	IE, Italic	Latin	450000	https://github.com/UniversalDependencies/UD_Latin-ITTB/tree/master	
+Latvian	90000	IE, Baltic	Latin	310000	https://github.com/UniversalDependencies/UD_Latvian-LVTB/tree/master	
+Lithuanian	193000	 IE, Baltic	Latin	70000	https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS/tree/master	
+Lombard				NaN	NaN	
+Low Saxon	41000	 IE, Germanic	Latin	4000	https://github.com/UniversalDependencies/UD_Low_Saxon-LSDC/tree/master	
+Luxembourgish				NaN	NaN	
+Macedonian	98000	 IE, Slavic	Cyrillic	1000	https://github.com/UniversalDependencies/UD_Macedonian-MTB/tree/master	
+Malagasy	91000			NaN	NaN	
+Malay				NaN	NaN	
+Malayalam	62000	 Dravidian	Malayalam	2000	https://github.com/UniversalDependencies/UD_Malayalam-UFAL/tree/master	
+Marathi	53000	IE, Indic	Devanagari	3000	https://github.com/UniversalDependencies/UD_Marathi-UFAL/tree/master	
+Minangkabau				NaN	NaN	
+Nepali				NaN	NaN	
+Newar				NaN	NaN	
+Norwegian (Bokmal)	500000	 IE, Germanic	Latin	310000	https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal/tree/master	
+Norwegian (Nynorsk)	142000	IE, Germanic	Latin	301000	https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk/tree/master	
+Occitan				NaN	NaN	
+Persian (Farsi)	652000	IE, Iranian	Arabic	501000	https://github.com/UniversalDependencies/UD_Persian-PerDT/tree/master	
+Piedmontese				NaN	NaN	
+Polish	1300000	IE, Slavic	Latin	349000	https://github.com/UniversalDependencies/UD_Polish-PDB/tree/master	
+Portuguese	1000000	 IE, Romance	Latin	475000	https://github.com/UniversalDependencies/UD_Portuguese-CINTIL/tree/master	
+Punjabi				NaN	NaN	
+Romanian	391000	IE, Romance	Latin	218000	https://github.com/UniversalDependencies/UD_Romanian-RRT/tree/master	
+Russian	1500000	IE, Slavic	Cyrillic	1517000	https://github.com/UniversalDependencies/UD_Russian-SynTagRus/tree/master	
+Scots				NaN	NaN	
+Serbian	614000	IE, Slavic	Latin	97000	https://github.com/UniversalDependencies/UD_Serbian-SET/tree/master	
+Serbo-Crotian				NaN	NaN	
+Sicilian				NaN	NaN	
+Slovak	228000	IE, Slavic	Latin	106000	https://github.com/UniversalDependencies/UD_Slovak-SNK/tree/master	
+Slovenian	163000	IE, Slavic	Latin	267000	https://github.com/UniversalDependencies/UD_Slovenian-SSJ/tree/master	
+South Azerbaijani				NaN	NaN	
+Spanish	1500000	IE, Romance	Latin	568000	https://github.com/UniversalDependencies/UD_Spanish-AnCora/tree/master	
+Sundanese				NaN	NaN	
+Swahili				NaN	NaN	
+Swedish	3800000	IE, Germanic	Latin	96000	https://github.com/UniversalDependencies/UD_Swedish-Talbanken/tree/master	
+Tagalog	78000	Austronesian, Central Philippine	Latin	1000	https://github.com/UniversalDependencies/UD_Tagalog-Ugnayan/tree/master	
+Tajik				NaN	NaN	
+Tamil	126000	 Dravidian	Tamil	9000	https://github.com/UniversalDependencies/UD_Tamil-TTB/tree/master	
+Tatar	83000	Turkic, Northwestern	Cyrillic	2000	https://github.com/UniversalDependencies/UD_Tatar-NMCTT/tree/master	test only
+Telugu	70000	Dravidian	Telugu	6000	https://github.com/UniversalDependencies/UD_Telugu-MTG/tree/master	
+Turkish	321000	 Turkic, Southwestern	Latin	183000	https://github.com/UniversalDependencies/UD_Turkish-Penn/tree/master	
+Ukrainian	878000	 IE, Slavic	Cyrillic	122000	https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master	
+Urdu	144000	 IE, Indic	Arabic	138000	https://github.com/UniversalDependencies/UD_Urdu-UDTB/tree/master	
+Uzbek				NaN	NaN	
+Vietnamese	1200000	 Austro-Asiatic, Viet-Muong	Latin	58000	https://github.com/UniversalDependencies/UD_Vietnamese-VTB/tree/master	
+Volapük				NaN	NaN	
+Waray-Waray				NaN	NaN	
+Welsh	102000	IE, Celtic	Latin	48000	https://github.com/UniversalDependencies/UD_Welsh-CCG/tree/master	
+West Frisian				NaN	NaN	
+Western Punjabi				NaN	NaN	
+Yoruba	32000	Niger-Congo, Defoid	Latin	8000	https://github.com/UniversalDependencies/UD_Yoruba-YTB/tree/master	test only
+Thai	129000	Tai-Kadai	Thai	22000	https://github.com/UniversalDependencies/UD_Thai-PUD/tree/master	
+Mongolian				NaN	NaN	

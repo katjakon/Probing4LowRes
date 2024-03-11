@@ -7,7 +7,7 @@ import requests
 arg_parser = argparse.ArgumentParser(
                     prog='Data Downloader',
                     description='Download nessecary data from Github repos')
-arg_parser.add_argument("--tsv_file", help="TSV file that contains links to Github repo and names.")
+arg_parser.add_argument("--tsv_file", help="TSV file that contains links to Github repo and names.", required=True)
 args = arg_parser.parse_args()
 
 GH_API = "https://api.github.com/repos/{username}/{repository_name}/contents/"

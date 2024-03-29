@@ -16,7 +16,7 @@ def get_original_word_representations(ids, model, mapping, layer_idx=-1):
             aggr_repr[idx] += output[start]
     return aggr_repr
 
-def convert_to_ids(word_list, tokenizer):
+def convert_to_ids(word_list, tokenizer, max_len=512):
     tokenized = []
     mapping = []
     subwords_idx = 0
@@ -24,6 +24,8 @@ def convert_to_ids(word_list, tokenizer):
         subwords = tokenizer.tokenize(word)
         length = len(subwords)
         new_idx = subwords_idx + length
+        if new_idx + 2 > max_len:
+            break
         tokenized.extend(subwords)
         mapping.append((subwords_idx, new_idx))
         subwords_idx = new_idx

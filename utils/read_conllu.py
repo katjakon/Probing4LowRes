@@ -89,7 +89,7 @@ class Data:
         prop_pos = {pos: totals[pos] /  sum_pos for pos in totals}
         return prop_pos , prop_feats, val_prop
     
-    def train(self, verbose=False, sample_size=None, seed=None):
+    def train(self, verbose=False, sample_size=None, seed=None, limit=None):
         random.seed(seed)
         train_data = []
         if isinstance(self.splits, list):
@@ -97,7 +97,7 @@ class Data:
                 if "train" in split:
                     if verbose:
                         print("Getting data from split {}".format(split))
-                    sents = self.read_conllu(split)
+                    sents = self.read_conllu(split, limit=limit)
                     train_data.extend(sents)
         if isinstance(self.splits, dict):
             train_data = self.splits.get("train", [])

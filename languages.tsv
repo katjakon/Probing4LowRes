@@ -44,7 +44,7 @@ Ido				NaN	NaN
 Indonesian	451000	Austronesian, Malayo-Sumbawan	Latin	122000	https://github.com/UniversalDependencies/UD_Indonesian-GSD/tree/master	
 Irish	50000	IE, Celtic	Latin	115000	https://github.com/UniversalDependencies/UD_Irish-IDT/tree/master	
 Italian	1500000	IE, Romance	Latin	298000	https://github.com/UniversalDependencies/UD_Italian-ISDT/tree/master	
-Japanese	1100000	Japanese	Japanese	1253000	https://github.com/UniversalDependencies/UD_Japanese-BCCWJ/tree/master	
+Japanese	1100000	Japanese	Japanese	1253000	https://github.com/UniversalDependencies/UD_Japanese-GSD/tree/master	
 Javanese	55000	Austronesian, Javanese	Latin	14000	https://github.com/UniversalDependencies/UD_Javanese-CSUI/tree/master	test only
 Kannada				NaN	NaN	
 Kazakh	228000	 Turkic, Northwestern	Cyrillic	10000	https://github.com/UniversalDependencies/UD_Kazakh-KTB/tree/master	
@@ -103,3 +103,16 @@ Western Punjabi				NaN	NaN
 Yoruba	32000	Niger-Congo, Defoid	Latin	8000	https://github.com/UniversalDependencies/UD_Yoruba-YTB/tree/master	test only
 Thai	129000	Tai-Kadai	Thai	22000	https://github.com/UniversalDependencies/UD_Thai-PUD/tree/master	
 Mongolian				NaN	NaN	
+Ligurian		IE, Romance	Latin		https://github.com/UniversalDependencies/UD_Ligurian-GLT/tree/master	
+Buryat		Mongolic	Cyrillic		https://github.com/UniversalDependencies/UD_Buryat-BDT/tree/master	
+Erzya		Uralic, Mordvin	Cyrillic		https://github.com/UniversalDependencies/UD_Erzya-JR/tree/master	
+Kurmanji		 IE, Iranian	Latin		https://github.com/UniversalDependencies/UD_Kurmanji-MG/tree/master	
+Komi Zyrian		Uralic, Permic	Cyrillic		https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice/tree/master	
+Maghrebi Arabic French		Codeswitching	Latin		https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi/tree/master	
+Maltese		 Afro-Asiatic, Semitic	Latin		https://github.com/UniversalDependencies/UD_Maltese-MUDT/tree/master	
+Wolof		 Niger-Congo, Northern Atlantic	Latin		https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/master	
+Uyghur		 Turkic, Southeastern	Arabic		https://github.com/UniversalDependencies/UD_Uyghur-UDT/tree/master	
+Turkish German		Codeswitching	Latin		https://github.com/UniversalDependencies/UD_Turkish_German-SAGT/tree/master	
+North Sámi		Uralic, Sami	Latin		https://github.com/UniversalDependencies/UD_North_Sami-Giella/tree/master	
+Naija		Creole	Latin		https://github.com/UniversalDependencies/UD_Naija-NSC/tree/master	
+Moksha 		Uralic, Mordvin	Cyrillic		https://github.com/UniversalDependencies/UD_Moksha-JR/tree/master	

@@ -89,7 +89,7 @@ class Data:
         prop_pos = {pos: totals[pos] /  sum_pos for pos in totals}
         return prop_pos , prop_feats, val_prop
     
-    def train(self, verbose=False, sample_size=None, seed=None, limit=None):
+    def train(self, verbose=False, sample_size=None, seed=None, limit=None, strict_sample=True):
         random.seed(seed)
         train_data = []
         if isinstance(self.splits, list):
@@ -104,7 +104,10 @@ class Data:
         if sample_size is None:
             return train_data
         else:
-            return random.sample(train_data, k=sample_size)
+            if strict_sample is True:
+                return random.sample(train_data, k=sample_size)
+            else: 
+                return train_data
     
     def test(self, verbose=False):
         test_data = []

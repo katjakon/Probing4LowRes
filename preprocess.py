@@ -28,6 +28,8 @@ if __name__ == "__main__":
     parser.add_argument("--sample_size", type=int)
     parser.add_argument("--pretrained")
     parser.add_argument("--out_dir")
+    parser.add_argument('--strict_sample',
+                    action='store_true') 
     args = parser.parse_args()
 
     seed = args.seed
@@ -35,6 +37,7 @@ if __name__ == "__main__":
     PRETRAINED_MODEL = args.pretrained #"google-bert/bert-base-multilingual-cased"
     data_dir = args.data_dir
     out_dir = args.out_dir
+    strict_sample = args.strict_sample
 
     # Load pretrained model.
     tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
@@ -57,7 +60,7 @@ if __name__ == "__main__":
             train = data.train(
                 sample_size=sample_size,
                 seed=seed,
-                limit=1000000
+                strict_sample=strict_sample
             )
         except ValueError:
             print(f"Skipped {lang}, not enough samples in train.")

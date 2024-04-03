@@ -105,5 +105,5 @@ for lang in langs:
 
 
 df = pd.DataFrame(data_df)
-df.to_csv(out, sep="tsv")
+df.to_csv(out, sep="\t")
 
